@@ -1,0 +1,5 @@
+alias ..='cd ..'
+#alias -='cd -'
+alias mkdir='mkdir -pv'
+alias ports='netstat -tulanp'
+alias apt-get='sudo apt-get'
